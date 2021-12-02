@@ -445,7 +445,7 @@ footer {
 
     #menu-bars {
         display: initial;
-        margin-right: 70px;
+        margin-right: 10px;
     }
 
     .navbar {
@@ -465,6 +465,16 @@ footer {
         padding: 1rem;
     }
 
+
+    .contact-form {
+        width: 35rem;
+        background: white;
+        text-align: center;
+        padding: 2rem 1rem;
+        margin: 0 auto;
+    }     
+
+
     .tariff-container img {
         width: 60%;
         margin-top: 0px;
@@ -476,6 +486,6 @@ footer {
     }
 
     .taxi-image img {
-        margin-top: 300px;
+        margin-top: 350px;
     }
 }
