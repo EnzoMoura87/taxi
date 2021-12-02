@@ -472,8 +472,13 @@ footer {
         text-align: center;
         padding: 2rem 1rem;
         margin: 0 auto;
-    }     
-
+    } 
+    
+    .inner-content {
+        flex: 1 1 45rem;
+        padding: 2rem;
+        text-align: center;
+    }
 
     .tariff-container img {
         width: 60%;
